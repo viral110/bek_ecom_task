@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403728767121",
+    "project_id": "bek-test-demo",
+    "storage_bucket": "bek-test-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403728767121:android:9b67ba36fb046828bc8730",
+        "android_client_info": {
+          "package_name": "com.example.bek_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqV_8-7PX4xSa_uRzP2BZvj2hb5a260lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
